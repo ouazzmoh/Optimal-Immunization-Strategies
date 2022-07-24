@@ -1,4 +1,4 @@
-# Optimal-Immunization-Strategies
+# Optimal-Immunization-Strategies \n
 This script concludes a research work that I have done about the optimization of immunization strategies.
 The script models the population as a Scale free network using the Barabasi-Albert algorithm.
 It compares the spread of a pandemic using 3 different vaccination techniques:
