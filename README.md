@@ -6,8 +6,7 @@ It compares the spread of a pandemic using 3 different vaccination techniques:
   2. Targeted: Choosing the nodes with the highest degrees to vaccinate.  
   3. Acquaintance Immunization: Choosing a random group of nodes, choosing random nodes from their neighbors and immunizing them.  
 The result show that the Targeted stategy gives the best results and the random strategy gives the worst results, however the targeted strategy is a techniquethat's quite difficult to realise. The acquaintace immunization gives us a middle ground between the two.  
-For more information and theoritical analysis of the strategies refer to the following paper   
-
+For more information and theoritical analysis of the strategies refer to the following paper. 
 DOI: 10.1140/epjb/e2004-00119-8
 
 
