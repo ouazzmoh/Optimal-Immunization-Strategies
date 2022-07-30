@@ -12,7 +12,7 @@ For more information and theoritical analysis of the strategies refer to the fol
 
 DOI: 10.1140/epjb/e2004-00119-8
 
-![alt text]([https://github.com/ouazzmoh/Optimal-Immunization-Strategies/Resuts.png](https://github.com/ouazzmoh/Optimal-Immunization-Strategies/blob/main/Resuts.png))
+![alt text](http://https://github.com/ouazzmoh/Optimal-Immunization-Strategies/blob/main/Resuts.png)
 
 
 
