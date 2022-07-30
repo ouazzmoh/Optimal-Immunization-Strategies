@@ -9,8 +9,10 @@ It compares the spread of a pandemic using 3 different vaccination techniques:
 </a> 
 The result show that the Targeted stategy gives the best results and the random strategy gives the worst results, however the targeted strategy is a techniquethat's quite difficult to realise. The acquaintace immunization gives us a middle ground between the two.  
 For more information and theoritical analysis of the strategies refer to the following paper. 
+
 DOI: 10.1140/epjb/e2004-00119-8
-![alt text](https://github.com/ouazzmoh/Optimal-Immuniztion-Strategies/"Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text](https://github.com/ouazzmoh/Optimal-Immuniztion-Strategies/Results.png/"Results")
+
 
 
